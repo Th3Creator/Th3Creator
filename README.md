@@ -1,8 +1,8 @@
-#Hello! All good?? My name is Christian Louzada
+# Hello! All good?? My name is Christian Louzada
 
-###🌍"We are all time travelers on a journey into the mold of tomorrow" 👨‍💻
+### 🌍"We are all time travelers on a journey into the mold of tomorrow" 👨‍💻
 
-``  `javascript
+``  ` javascript
 let AboutChristian = {
     age: 18,
     country: 'Brazil',
@@ -10,5 +10,4 @@ let AboutChristian = {
     interest: ['Python', 'SQL', 'Redes', 'Ruby'],
     hobbies: ['Chess', 'sport', 'reading', 'scientific content', 'philosophy']
 };
-
 `` `
