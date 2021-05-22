@@ -11,7 +11,7 @@ let AboutChristian = {
     hobbies: ['Chess', 'sport', 'reading', 'scientific content', 'philosophy']
 };
 
-###   Find me somewhere else📳
+### Find me somewhere else📳
 
 📸 [Instagram](https://instagram.com/szchristiansz) 
 💼 [LinkedIn](https://www.linkedin.com/in/christian-louzada-707939209/) 
