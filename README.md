@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Creator&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Creator&layout=compact)
+
 ```javascript
 let AboutMe = {
     age: 18,
@@ -12,4 +14,3 @@ let AboutMe = {
     interest: ['Python', 'SQL', 'Redes', 'Ruby'],
     hobbies: ['Chess', 'Sport', 'Reading', 'Scientific Content', 'Philosophy']
 };
-
