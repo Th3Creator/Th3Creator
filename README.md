@@ -3,10 +3,10 @@
 ### 🌍"We are all time travelers on a journey into the mold of tomorrow" 👨‍💻
 
 ```javascript
-let AboutChristian = {
+let AboutMe = {
     age: 18,
     country: 'Brazil',
     city: 'Vespasiano, MG',
     interest: ['Python', 'SQL', 'Redes', 'Ruby'],
-    hobbies: ['Chess', 'sport', 'reading', 'scientific content', 'philosophy']
+    hobbies: ['Chess', 'Sport', 'Reading', 'Scientific Content', 'Philosophy']
 };
