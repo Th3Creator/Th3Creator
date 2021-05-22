@@ -1,16 +1,14 @@
-### Hi there 👋
+#Hello! All good?? My name is Christian Louzada
 
-<!--
-**Th3Creator/Th3Creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🌍"We are all time travelers on a journey into the mold of tomorrow" 👨‍💻
 
-Here are some ideas to get you started:
+``  `javascript
+let AboutChristian = {
+    age: 18,
+    country: 'Brazil',
+    city: 'Vespasiano, MG',
+    interest: ['Python', 'SQL', 'Redes', 'Ruby'],
+    hobbies: ['Chess', 'sport', 'reading', 'scientific content', 'philosophy']
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`` `
