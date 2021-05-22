@@ -2,6 +2,8 @@
 
 ### 🌍"We are all time travelers on a journey into the mold of tomorrow" 👨‍💻
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Creator&show_icons=true&theme=tokyonight)
+
 ```javascript
 let AboutMe = {
     age: 18,
@@ -11,4 +13,3 @@ let AboutMe = {
     hobbies: ['Chess', 'Sport', 'Reading', 'Scientific Content', 'Philosophy']
 };
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Creator&show_icons=true&theme=tokyonight)
