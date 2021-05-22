@@ -10,4 +10,3 @@ let AboutChristian = {
     interest: ['Python', 'SQL', 'Redes', 'Ruby'],
     hobbies: ['Chess', 'sport', 'reading', 'scientific content', 'philosophy']
 };
-`` 
