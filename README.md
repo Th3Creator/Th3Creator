@@ -10,8 +10,3 @@ let AboutChristian = {
     interest: ['Python', 'SQL', 'Redes', 'Ruby'],
     hobbies: ['Chess', 'sport', 'reading', 'scientific content', 'philosophy']
 };
-
-More about me:
-
-📸 [Instagram](https://instagram.com/szchristiansz) 
-💼 [LinkedIn](https://www.linkedin.com/in/christian-louzada-707939209/) 
