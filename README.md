@@ -10,3 +10,5 @@ let AboutMe = {
     interest: ['Python', 'SQL', 'Redes', 'Ruby'],
     hobbies: ['Chess', 'Sport', 'Reading', 'Scientific Content', 'Philosophy']
 };
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Creator&show_icons=true&theme=tokyonight)
