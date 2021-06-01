@@ -14,6 +14,8 @@ let AboutMe = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Creator&show_icons=true&theme=tokyonight)
 
+![image](https://user-images.githubusercontent.com/78706060/120377820-02388780-c2f4-11eb-8dae-8f0eeb96ff06.png)
+
 ![Snake animation](https://github.com/Th3Creator/Th3Creator/blob/output/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Creator&layout=compact)
