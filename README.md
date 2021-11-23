@@ -1,6 +1,6 @@
 # Hello! All good?? My name is Christian Louzada
 
-### 🌍"supporting the process to serve the purpose" 👨‍💻
+### 🌍"enduring the process to serve the purpose" 👨‍💻
 
 ```javascript
 let AboutMe = {
