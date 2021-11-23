@@ -1,6 +1,6 @@
 # Hello! All good?? My name is Christian Louzada
 
-### 🌍"We are all time travelers on a journey into the mold of tomorrow" 👨‍💻
+### 🌍"supporting the process to serve the purpose" 👨‍💻
 
 ```javascript
 let AboutMe = {
