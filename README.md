@@ -16,7 +16,7 @@ let AboutMe = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Creator&layout=compact&theme=tokyonight)
 
 <div align="center">
-## Total de Visitas no perfil 🕵️ <br>
+ ## Total de Visitas no perfil 🕵️ <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Th3Creator/count.svg" />
  </p>
