@@ -17,7 +17,8 @@ let AboutMe = {
 
 <div align="center">
  ## Total de Visitas no perfil 🕵️ <br>
+</div>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Th3Creator/count.svg" />
  </p>
-</div>
+
