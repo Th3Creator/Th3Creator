@@ -22,5 +22,5 @@ let AboutMe = {
 </div>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Th3Creator/count.svg" />
- </p>
+ </p> 
 
