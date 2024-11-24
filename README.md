@@ -1,5 +1,6 @@
+<div align="center">
 ### 🌍"enduring the process to serve the purpose" 👨‍💻
-
+</div>
 ```javascript
 let AboutMe = {
     age: 21,
@@ -9,7 +10,6 @@ let AboutMe = {
     hobbies: ['Chess', 'Sport', 'Reading', 'Scientific Content', 'Philosophy']
 };
 ```
-<div align="center">
     
 <h3 align="left">⚗️Tech's:</h3>
 <div align="left">
