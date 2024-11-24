@@ -1,13 +1,11 @@
-# Hello! All good?? My name is Christian Louzada
-
 ### 🌍"enduring the process to serve the purpose" 👨‍💻
 
 ```javascript
 let AboutMe = {
-    age: 19,
+    age: 21,
     country: 'Brazil',
     city: 'Vespasiano, MG',
-    interest: ['Python', 'SQL', 'Redes', 'Ruby'],
+    interest: ['Django', 'TypeScript', 'Node', 'Spring'],
     hobbies: ['Chess', 'Sport', 'Reading', 'Scientific Content', 'Philosophy']
 };
 ```
@@ -16,11 +14,25 @@ let AboutMe = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Creator&layout=compact&theme=tokyonight)
 
 <div align="center">
+    
+<h3 align="left">Tech:</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 
+<h3 align="left">Tools:</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 
-## Total de Visitas no perfil 🕵️ <br>
-</div>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Th3Creator/count.svg" />
- </p> 
+<h3 align="left">IDE:</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
+<h3 align="left">Design:</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
