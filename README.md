@@ -41,6 +41,3 @@ let AboutMe = {
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Creator&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Creator&layout=compact&theme=tokyonight)
