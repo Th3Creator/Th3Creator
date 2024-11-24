@@ -31,7 +31,7 @@ let AboutMe = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40" />
 </div>
 
-<h3 align="left">👨🏽‍💻IDE:</h3>
+<h3 align="left">👨🏽‍💻Ide's:</h3>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
