@@ -7,7 +7,7 @@ let AboutMe = {
     age: 21,
     country: 'Brazil',
     city: 'Vespasiano, MG',
-    interest: ['Django', 'TypeScript', 'Node', 'Spring'],
+    interest: ['.Net', 'Angular', 'MongoDB', 'Clean Architecture', 'Clean Code'],
     hobbies: ['Chess', 'Sport', 'Reading', 'Scientific Content', 'Philosophy']
 };
 ```
