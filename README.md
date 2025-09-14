@@ -4,7 +4,7 @@
 
 ```javascript
 let AboutMe = {
-    age: 21,
+    age: 22,
     country: 'Brazil',
     city: 'Vespasiano, MG',
     interest: ['.Net', 'Angular', 'MongoDB', 'Clean Architecture', 'Clean Code'],
